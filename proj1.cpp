@@ -1,6 +1,6 @@
 #include<standard input & output.h>
 int main ()
 {
-	printf("s");
+	printf("ss");
 	return 0;
  } 
